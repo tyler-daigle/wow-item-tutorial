@@ -1,0 +1,37 @@
+.tooltip-hidden {
+  display: none;
+}
+
+.tooltip-visible {
+  display: flex;
+}
+
+#tooltip {
+  border: solid 2px white;
+  border-radius: 5px;
+  padding: 1rem;
+  width: max-content;
+  background-color: rgba(11, 11, 42, 0.7);
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  left: 10px;
+}
+
+.tooltip-name {
+  color: blue;
+}
+
+.tooltip-item-level {
+  color: #ffe100;
+}
+
+.tooltip-weapon-type-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 5rem;
+}
+
+.tooltip-bonuses {
+  color: rgb(6, 206, 6);
+}
