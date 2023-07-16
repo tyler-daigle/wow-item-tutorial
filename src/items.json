@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "id": "a1b2c3",
+      "name": "Thunderfury, Blessed Blade of the Windseeker",
+      "type": "One-Handed Sword",
+      "attributes": {
+        "strength": 30,
+        "agility": 20,
+        "stamina": 25,
+        "attack_power": 200
+      },
+      "icon": "https://example.com/thunderfury_icon.png"
+    },
+    {
+      "id": "d4e5f6",
+      "name": "Ashkandi, Greatsword of the Brotherhood",
+      "type": "Two-Handed Sword",
+      "attributes": {
+        "strength": 40,
+        "stamina": 35,
+        "attack_power": 180,
+        "critical_strike": 2
+      },
+      "icon": "https://example.com/ashkandi_icon.png"
+    },
+    {
+      "id": "g7h8i9",
+      "name": "Netherwind Robes",
+      "type": "Cloth Chest",
+      "attributes": {
+        "intellect": 30,
+        "stamina": 25,
+        "spell_power": 150,
+        "critical_strike": 1
+      },
+      "icon": "https://example.com/netherwind_robes_icon.png"
+    },
+    {
+      "id": "j0k1l2",
+      "name": "Dragonstalker's Helm",
+      "type": "Mail Helm",
+      "attributes": {
+        "agility": 25,
+        "stamina": 30,
+        "ranged_attack_power": 150,
+        "hit_rating": 2
+      },
+      "icon": "https://example.com/dragonstalker_helm_icon.png"
+    },
+    {
+      "id": "m3n4o5",
+      "name": "Benediction",
+      "type": "Staff",
+      "attributes": {
+        "intellect": 25,
+        "spirit": 20,
+        "healing_power": 250
+      },
+      "icon": "https://example.com/benediction_icon.png"
+    }
+  ]
+}
